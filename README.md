@@ -56,8 +56,8 @@ sugarcane-leaf-disease-detection/
 Clone and install dependencies:
 
 ```bash
-git clone https://github.com/Neill-Erasmus/sugarcane-leaf-disease-detection.git
-cd sugarcane-leaf-disease-detection
+git clone https://github.com/anshita195/Deep-Learning-for-Sugarcane-Disease-Detection.git
+cd Deep-Learning-for-Sugarcane-Disease-Detection
 
 python -m venv venv
 source venv/bin/activate  # Linux/macOS
